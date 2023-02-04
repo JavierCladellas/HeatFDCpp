@@ -4,5 +4,4 @@ This is a C++ implementation of the finite differences method to solve the heat 
 
 The objective of this project is to implement the Finite Difference method in C++ by using the less possible number of libraries. 
 
-More detail on the code and the results can be found in the [report](
-    ).
+More detail on the code and the results can be found in the [report](https://github.com/JavierCladellas/HeatFDCpp/blob/main/projet.pdf ).
